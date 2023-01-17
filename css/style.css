@@ -1,3 +1,32 @@
+body {
+    background-color: bisque;
+    font-family:'Franklin Gothic', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    background-color:burlywood;
+    font-size:larger;
+    font-stretch: condensed;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: bolder;
+    color: blue;
+    opacity: .6;
+}
+
+h3 {
+    font-weight: bold;
+    color: darkblue;
+    opacity: .6;
+}
+
 ul  {
     list-style: none;
+}
+
+em  {
+    color: gray;
+    opacity: .6;
 }
